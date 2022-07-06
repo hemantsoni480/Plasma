@@ -1,0 +1,14 @@
+POST http://localhost:4000/doneeForm1/donorForm1
+Content-Type: application/json
+
+{
+    "donorname":"aditi patidar",
+    "donoremail":"aditipatidar046@gmail.com",
+    "donorcontact":"9895955959",
+    "donorcity":"jaipur",
+    "donorstate":"rajasthan",
+    "donorpin":"302039",
+    "donorage":"over 18",
+    "donorgender":"male",
+    "donorbloodgroup":"O-"
+}
